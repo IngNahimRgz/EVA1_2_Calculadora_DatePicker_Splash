@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EVA1_2_Calculadora_DatePicker_Splash</string>
+    <string name="btnCalculadora">Calculadora</string>
+    <string name="btnDatePicker">DatePicker/TimePicker</string>
+    <string name="btnSplash">Splash</string>
+    <string name="elevar">^</string>
+</resources>
